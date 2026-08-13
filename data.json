@@ -1,0 +1,5087 @@
+{
+ "meta": {
+  "group": "PCSM",
+  "goal": 95,
+  "source": "8x8 Quality Management - Search Evaluations",
+  "range": "from 8x8 export",
+  "lastUpdated": "2026-08-13T08:45:05.908462"
+ },
+ "records": [
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 65,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-05",
+   "interactionDate": "2025-12-23"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-05",
+   "interactionDate": "2025-12-22"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-05",
+   "interactionDate": "2025-12-22"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-05",
+   "interactionDate": "2025-12-22"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2025-12-24"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 75,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2025-12-30"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 65,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2025-12-22"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2025-12-23"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-07",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-07",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-07",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-08",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-08",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-08",
+   "interactionDate": "2026-01-07"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-08",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-08",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2025-12-23"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "Madison McCaskey",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 65,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-09"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "William King",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-13",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-13",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-13",
+   "interactionDate": "2026-01-07"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-13",
+   "interactionDate": "2026-01-09"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-13",
+   "interactionDate": "2026-01-09"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-13",
+   "interactionDate": "2026-01-12"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-13"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-13"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 70,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-13"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-12"
+  },
+  {
+   "agent": "Summer Rima",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-15",
+   "interactionDate": "2026-01-14"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-15",
+   "interactionDate": "2026-01-14"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-15",
+   "interactionDate": "2026-01-14"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-15",
+   "interactionDate": "2026-01-13"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-14"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-15"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-14"
+  },
+  {
+   "agent": "William King",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-15"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-19",
+   "interactionDate": "2026-01-16"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-19",
+   "interactionDate": "2026-01-16"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-20",
+   "interactionDate": "2026-01-19"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 75,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-20",
+   "interactionDate": "2026-01-19"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-20",
+   "interactionDate": "2026-01-19"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-20",
+   "interactionDate": "2026-01-16"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 95,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-20",
+   "interactionDate": "2026-01-16"
+  },
+  {
+   "agent": "Chyna Elias",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-21",
+   "interactionDate": "2026-01-20"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-21",
+   "interactionDate": "2026-01-20"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-21",
+   "interactionDate": "2026-01-20"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-21",
+   "interactionDate": "2026-01-15"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-22",
+   "interactionDate": "2026-01-13"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-23",
+   "interactionDate": "2026-01-22"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-23",
+   "interactionDate": "2026-01-21"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-23",
+   "interactionDate": "2026-01-22"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-23",
+   "interactionDate": "2026-01-21"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-23",
+   "interactionDate": "2026-01-22"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-26",
+   "interactionDate": "2026-01-22"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-26",
+   "interactionDate": "2026-01-23"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-26",
+   "interactionDate": "2026-01-23"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-23"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-20"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-26"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 75,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-22"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 70,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-22"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-12"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-14"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-28"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-29",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "William King",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-29",
+   "interactionDate": "2026-01-28"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 90,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-29",
+   "interactionDate": "2026-01-26"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-29",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 75,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-29",
+   "interactionDate": "2026-01-28"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-29",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 75,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-30"
+  },
+  {
+   "agent": "David Ostendorf",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-30"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-30"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 75,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-30"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-03",
+   "interactionDate": "2026-02-02"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-03",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-03",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-03",
+   "interactionDate": "2026-02-02"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-03",
+   "interactionDate": "2026-01-30"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-04",
+   "interactionDate": "2026-02-02"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 65,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-04",
+   "interactionDate": "2026-01-30"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-04",
+   "interactionDate": "2026-02-03"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-04",
+   "interactionDate": "2026-01-30"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 90,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-04",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Chyna Elias",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 60,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-01-30"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-03"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-02"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-03"
+  },
+  {
+   "agent": "Chyna Elias",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-02-03"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 60,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 60,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-02"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-02"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 65,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-10",
+   "interactionDate": "2026-02-09"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-10",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 65,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-10",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-10",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-10",
+   "interactionDate": "2026-02-09"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 55,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-10",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "Summer Rima",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-10",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-10",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-09"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-12",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-12",
+   "interactionDate": "2026-02-10"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 95,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-12",
+   "interactionDate": "2026-02-10"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-12",
+   "interactionDate": "2026-02-10"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 65,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-12",
+   "interactionDate": "2026-02-10"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-12",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 55,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-11"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-10"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-13"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-13"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-11"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-17",
+   "interactionDate": "2026-02-10"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-17",
+   "interactionDate": "2026-02-11"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-17",
+   "interactionDate": "2026-02-13"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-17",
+   "interactionDate": "2026-02-13"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 70,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-17",
+   "interactionDate": "2026-02-13"
+  },
+  {
+   "agent": "David Ostendorf",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-17",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-19",
+   "interactionDate": "2026-02-13"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-19",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-19",
+   "interactionDate": "2026-02-17"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-19",
+   "interactionDate": "2026-02-17"
+  },
+  {
+   "agent": "William King",
+   "score": 95,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-19",
+   "interactionDate": "2026-02-11"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-19",
+   "interactionDate": "2026-02-17"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-19",
+   "interactionDate": "2026-02-17"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-17"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 70,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-17"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-13"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-19"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 55,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-19"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-24",
+   "interactionDate": "2026-02-17"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 70,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-24",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-24",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-24",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-24",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-24",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-24",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Gabriela Sanabia Pappaterra",
+   "score": 65,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-24"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 75,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-24"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Summer Rima",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-24"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 95,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Gabriela Sanabia Pappaterra",
+   "score": 70,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-26"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-26"
+  },
+  {
+   "agent": "Gabriela Sanabia Pappaterra",
+   "score": 60,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-26"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-26"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-26"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 90,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-03",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-03",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-03",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-03",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-03",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Madison McCaskey",
+   "score": 55,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-03",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-04",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-04",
+   "interactionDate": "2026-03-03"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-04",
+   "interactionDate": "2026-03-03"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-04",
+   "interactionDate": "2026-03-03"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-04",
+   "interactionDate": "2026-03-03"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-03-04",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 40,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-04",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-03-04",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 50,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-03"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-02"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-06",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 60,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-06",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-06",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-03-06",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-06",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "Chyna Elias",
+   "score": 90,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 95,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 65,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Amber Thomas",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-10",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 95,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-10",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-10",
+   "interactionDate": "2026-03-09"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-11",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-11",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 95,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-11",
+   "interactionDate": "2026-03-09"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 95,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-11",
+   "interactionDate": "2026-03-09"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 75,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-11",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-11",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-12",
+   "interactionDate": "2026-03-11"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-12",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-12",
+   "interactionDate": "2026-03-11"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-13",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-13",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-13",
+   "interactionDate": "2026-03-11"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 90,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-16",
+   "interactionDate": "2026-03-11"
+  },
+  {
+   "agent": "Gabriela Sanabia Pappaterra",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-16",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-16",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 65,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-17",
+   "interactionDate": "2026-03-09"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-17",
+   "interactionDate": "2026-03-11"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-18",
+   "interactionDate": "2026-03-13"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-18",
+   "interactionDate": "2026-03-13"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-18",
+   "interactionDate": "2026-03-16"
+  },
+  {
+   "agent": "Madison McCaskey",
+   "score": 70,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-18",
+   "interactionDate": "2026-03-13"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-18",
+   "interactionDate": "2026-03-13"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-18",
+   "interactionDate": "2026-03-13"
+  },
+  {
+   "agent": "Madison McCaskey",
+   "score": 60,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-19",
+   "interactionDate": "2026-03-17"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-19",
+   "interactionDate": "2026-03-18"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-19",
+   "interactionDate": "2026-03-17"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-19",
+   "interactionDate": "2026-03-17"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-19",
+   "interactionDate": "2026-03-16"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-19",
+   "interactionDate": "2026-03-18"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-17"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-17"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 60,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-20"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-18"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-20"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-24",
+   "interactionDate": "2026-03-23"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-24",
+   "interactionDate": "2026-03-20"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 95,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-24",
+   "interactionDate": "2026-03-20"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-24",
+   "interactionDate": "2026-03-20"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-25",
+   "interactionDate": "2026-03-23"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-25",
+   "interactionDate": "2026-03-24"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-25",
+   "interactionDate": "2026-03-24"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-26",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-26",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-26",
+   "interactionDate": "2026-03-24"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-27",
+   "interactionDate": "2026-03-26"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-27",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-27",
+   "interactionDate": "2026-03-20"
+  },
+  {
+   "agent": "Madison McCaskey",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-30",
+   "interactionDate": "2026-03-26"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-30",
+   "interactionDate": "2026-03-27"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-31",
+   "interactionDate": "2026-03-27"
+  },
+  {
+   "agent": "William King",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-31",
+   "interactionDate": "2026-03-30"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-01",
+   "interactionDate": "2026-03-30"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-01",
+   "interactionDate": "2026-03-30"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-06",
+   "interactionDate": "2026-04-02"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-06",
+   "interactionDate": "2026-03-30"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 65,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-06",
+   "interactionDate": "2026-04-02"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-06",
+   "interactionDate": "2026-04-02"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-06",
+   "interactionDate": "2026-04-01"
+  },
+  {
+   "agent": "David Ostendorf",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-07",
+   "interactionDate": "2026-04-02"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-07",
+   "interactionDate": "2026-04-02"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-07",
+   "interactionDate": "2026-04-02"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-07",
+   "interactionDate": "2026-04-03"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 90,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-07",
+   "interactionDate": "2026-04-03"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-07",
+   "interactionDate": "2026-04-06"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-08",
+   "interactionDate": "2026-04-03"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 60,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-08",
+   "interactionDate": "2026-04-06"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-08",
+   "interactionDate": "2026-04-03"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-09",
+   "interactionDate": "2026-04-08"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-09",
+   "interactionDate": "2026-04-07"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 85,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-09",
+   "interactionDate": "2026-04-07"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-09",
+   "interactionDate": "2026-04-08"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-09",
+   "interactionDate": "2026-04-08"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-09",
+   "interactionDate": "2026-04-08"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-10",
+   "interactionDate": "2026-04-09"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-14",
+   "interactionDate": "2026-04-08"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-14",
+   "interactionDate": "2026-04-13"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-14",
+   "interactionDate": "2026-03-31"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-15",
+   "interactionDate": "2026-04-14"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-15",
+   "interactionDate": "2026-04-13"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-16",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 65,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-16",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-16",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 40,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-17",
+   "interactionDate": "2026-04-16"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-17",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-17",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-20",
+   "interactionDate": "2026-04-17"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-20",
+   "interactionDate": "2026-04-17"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-20",
+   "interactionDate": "2026-04-17"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-21",
+   "interactionDate": "2026-04-17"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-21",
+   "interactionDate": "2026-04-17"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-21",
+   "interactionDate": "2026-04-20"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-22",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "William King",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-22",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Summer Rima",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-22",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-23",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-23",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Niurkiss Mallen Burgos",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-23",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-24",
+   "interactionDate": "2026-04-22"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-24",
+   "interactionDate": "2026-04-22"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 75,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-23"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-22"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 75,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-24"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-28",
+   "interactionDate": "2026-04-27"
+  },
+  {
+   "agent": "William King",
+   "score": 65,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-28",
+   "interactionDate": "2026-04-24"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-28"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-28"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 95,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-28"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-01",
+   "interactionDate": "2026-04-30"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-01",
+   "interactionDate": "2026-04-29"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-01",
+   "interactionDate": "2026-04-29"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-05",
+   "interactionDate": "2026-05-01"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 60,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-05",
+   "interactionDate": "2026-05-01"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-05",
+   "interactionDate": "2026-05-01"
+  },
+  {
+   "agent": "Dominic Ondabu",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-06",
+   "interactionDate": "2026-05-04"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-06",
+   "interactionDate": "2026-05-01"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 65,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-06",
+   "interactionDate": "2026-05-01"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-07",
+   "interactionDate": "2026-05-05"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-07",
+   "interactionDate": "2026-05-05"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-07",
+   "interactionDate": "2026-05-04"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-08",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-08",
+   "interactionDate": "2026-05-07"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-08",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-11",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 95,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-11",
+   "interactionDate": "2026-05-07"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-11",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-12",
+   "interactionDate": "2026-05-07"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 65,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-12",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-12",
+   "interactionDate": "2026-05-05"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-13",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-13",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-14",
+   "interactionDate": "2026-05-12"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-14",
+   "interactionDate": "2026-05-12"
+  },
+  {
+   "agent": "Sydney Pacheco",
+   "score": 90,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-14",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 95,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-15",
+   "interactionDate": "2026-05-13"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-15",
+   "interactionDate": "2026-05-14"
+  },
+  {
+   "agent": "Tina Stone",
+   "score": 75,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-15",
+   "interactionDate": "2026-05-08"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-15",
+   "interactionDate": "2026-05-13"
+  },
+  {
+   "agent": "Jake Tayler",
+   "score": 70,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-15",
+   "interactionDate": "2026-05-05"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-15",
+   "interactionDate": "2026-05-13"
+  },
+  {
+   "agent": "Jake Tayler",
+   "score": 70,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-18",
+   "interactionDate": "2026-05-15"
+  },
+  {
+   "agent": "Tina Stone",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-18",
+   "interactionDate": "2026-05-14"
+  },
+  {
+   "agent": "Scott Jennings",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-19",
+   "interactionDate": "2026-05-18"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-19",
+   "interactionDate": "2026-05-15"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-19",
+   "interactionDate": "2026-05-15"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-20",
+   "interactionDate": "2026-05-18"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 95,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-20",
+   "interactionDate": "2026-05-18"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-20",
+   "interactionDate": "2026-05-18"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 95,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-21",
+   "interactionDate": "2026-05-19"
+  },
+  {
+   "agent": "Jake Tayler",
+   "score": 55,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-21",
+   "interactionDate": "2026-05-19"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-21",
+   "interactionDate": "2026-05-19"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 95,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-22",
+   "interactionDate": "2026-05-19"
+  },
+  {
+   "agent": "David Ostendorf",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-22",
+   "interactionDate": "2026-05-20"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-25",
+   "interactionDate": "2026-05-20"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-25",
+   "interactionDate": "2026-05-20"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-26",
+   "interactionDate": "2026-05-20"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 65,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-26",
+   "interactionDate": "2026-05-21"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-26",
+   "interactionDate": "2026-05-21"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-27",
+   "interactionDate": "2026-05-22"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 65,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-27",
+   "interactionDate": "2026-05-26"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-27",
+   "interactionDate": "2026-05-22"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-28",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "Jonathan Miles",
+   "score": 60,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-28",
+   "interactionDate": "2026-05-26"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-28",
+   "interactionDate": "2026-05-26"
+  },
+  {
+   "agent": "Jason Hockett",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "Summer Rima",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-01",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-01",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "Lauren Crutchfield",
+   "score": 95,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-03",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "Jonathan Miles",
+   "score": 95,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-03",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "Summer Rima",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-03",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "Lauren Crutchfield",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-05",
+   "interactionDate": "2026-05-29"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-05",
+   "interactionDate": "2026-05-29"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-05",
+   "interactionDate": "2026-05-29"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-05",
+   "interactionDate": "2026-05-29"
+  },
+  {
+   "agent": "Stefanie Smith",
+   "score": 70,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-06-04"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-06-03"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-06-02"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-06-03"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-06-02"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-09",
+   "interactionDate": "2026-06-04"
+  },
+  {
+   "agent": "Lauren Crutchfield",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-09",
+   "interactionDate": "2026-06-05"
+  },
+  {
+   "agent": "William King",
+   "score": 70,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-09",
+   "interactionDate": "2026-06-04"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-09",
+   "interactionDate": "2026-06-04"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-10",
+   "interactionDate": "2026-06-08"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-10",
+   "interactionDate": "2026-06-09"
+  },
+  {
+   "agent": "Ladonna Williams",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-10",
+   "interactionDate": "2026-06-08"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-10",
+   "interactionDate": "2026-06-08"
+  },
+  {
+   "agent": "Chyna Elias",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-10",
+   "interactionDate": "2026-06-05"
+  },
+  {
+   "agent": "Chyna Elias",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-11"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-11"
+  },
+  {
+   "agent": "Summer Rima",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-09"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-10"
+  },
+  {
+   "agent": "Stefanie Smith",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-10"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-09"
+  },
+  {
+   "agent": "Lauren Crutchfield",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-06-12"
+  },
+  {
+   "agent": "Tina Stone",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-06-12"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-06-11"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-06-11"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-06-11"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-17",
+   "interactionDate": "2026-06-12"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-17",
+   "interactionDate": "2026-06-04"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-17",
+   "interactionDate": "2026-06-11"
+  },
+  {
+   "agent": "Keyla Ferreras Solano",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-17",
+   "interactionDate": "2026-06-05"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-17",
+   "interactionDate": "2026-06-05"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-17",
+   "interactionDate": "2026-06-02"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 70,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-18",
+   "interactionDate": "2026-06-15"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-18",
+   "interactionDate": "2026-06-15"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-18",
+   "interactionDate": "2026-06-15"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-18",
+   "interactionDate": "2026-06-09"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-18",
+   "interactionDate": "2026-06-02"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-17"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-17"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-17"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-17"
+  },
+  {
+   "agent": "Holly Fatla",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-17"
+  },
+  {
+   "agent": "Chyna Elias",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-18"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-18"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 75,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-18"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-17"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-17"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-23",
+   "interactionDate": "2026-06-22"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-23",
+   "interactionDate": "2026-06-22"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 65,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-23",
+   "interactionDate": "2026-06-19"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-23",
+   "interactionDate": "2026-06-18"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-23",
+   "interactionDate": "2026-06-19"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-24",
+   "interactionDate": "2026-06-11"
+  },
+  {
+   "agent": "Kristen Weaver",
+   "score": 85,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-24",
+   "interactionDate": "2026-06-23"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-24",
+   "interactionDate": "2026-06-18"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-25",
+   "interactionDate": "2026-06-23"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 70,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-25",
+   "interactionDate": "2026-06-24"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-25",
+   "interactionDate": "2026-06-17"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-26",
+   "interactionDate": "2026-06-24"
+  },
+  {
+   "agent": "Lauren Crutchfield",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-26",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Antonio Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-26",
+   "interactionDate": "2026-06-24"
+  },
+  {
+   "agent": "Erika Hubbard",
+   "score": 75,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 90,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-29"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-26"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-26"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-01",
+   "interactionDate": "2026-06-30"
+  },
+  {
+   "agent": "Stefanie Smith",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-01",
+   "interactionDate": "2026-06-30"
+  },
+  {
+   "agent": "David Ostendorf",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-02",
+   "interactionDate": "2026-07-01"
+  },
+  {
+   "agent": "Kelly Householder",
+   "score": 75,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-02",
+   "interactionDate": "2026-07-01"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-02",
+   "interactionDate": "2026-07-01"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-03",
+   "interactionDate": "2026-06-30"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-03",
+   "interactionDate": "2026-07-02"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 85,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-03",
+   "interactionDate": "2026-07-02"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-03",
+   "interactionDate": "2026-07-01"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-06",
+   "interactionDate": "2026-07-02"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-07",
+   "interactionDate": "2026-07-06"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 75,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-10",
+   "interactionDate": "2026-07-06"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-10",
+   "interactionDate": "2026-07-07"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-13",
+   "interactionDate": "2026-07-08"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-13",
+   "interactionDate": "2026-07-09"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 65,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-14",
+   "interactionDate": "2026-07-09"
+  },
+  {
+   "agent": "Glenys Rodriguez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-14",
+   "interactionDate": "2026-07-09"
+  },
+  {
+   "agent": "Aylin Kumcur Reyes",
+   "score": 90,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-15",
+   "interactionDate": "2026-07-10"
+  },
+  {
+   "agent": "Abel Gonzalez Montero",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-15",
+   "interactionDate": "2026-07-10"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 95,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-16",
+   "interactionDate": "2026-07-14"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-16",
+   "interactionDate": "2026-07-14"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-17",
+   "interactionDate": "2026-07-15"
+  },
+  {
+   "agent": "Yenifer Medina Perez",
+   "score": 100,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-17",
+   "interactionDate": "2026-07-14"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-20",
+   "interactionDate": "2026-07-17"
+  },
+  {
+   "agent": "William King",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-20",
+   "interactionDate": "2026-07-16"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-21",
+   "interactionDate": "2026-07-20"
+  },
+  {
+   "agent": "Erika Hubbard",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-22",
+   "interactionDate": "2026-07-20"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 95,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-22",
+   "interactionDate": "2026-07-21"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-22",
+   "interactionDate": "2026-07-22"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-23",
+   "interactionDate": "2026-07-20"
+  },
+  {
+   "agent": "Hunter Leake",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-22"
+  },
+  {
+   "agent": "Mariel Rosa Hernandez",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-24"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-24"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-28",
+   "interactionDate": "2026-07-27"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-28",
+   "interactionDate": "2026-07-27"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-28",
+   "interactionDate": "2026-07-27"
+  },
+  {
+   "agent": "Stephanie Stalone (STALOS01)",
+   "score": 60,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-29",
+   "interactionDate": "2026-07-22"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-29",
+   "interactionDate": "2026-07-28"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-29",
+   "interactionDate": "2026-07-29"
+  },
+  {
+   "agent": "Erika Hubbard",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-30",
+   "interactionDate": "2026-07-29"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-30",
+   "interactionDate": "2026-07-30"
+  },
+  {
+   "agent": "Lorenz Marsh",
+   "score": 65,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-03",
+   "interactionDate": "2026-07-31"
+  },
+  {
+   "agent": "Taylor Sloan",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-04",
+   "interactionDate": "2026-07-31"
+  },
+  {
+   "agent": "Nicole Ozoria Minaya",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-05",
+   "interactionDate": "2026-07-31"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 65,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-05",
+   "interactionDate": "2026-08-04"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-08-05",
+   "interactionDate": "2026-08-05"
+  },
+  {
+   "agent": "Jake Tayler",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-06",
+   "interactionDate": "2026-07-29"
+  },
+  {
+   "agent": "Lauren Crutchfield",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-08-06",
+   "interactionDate": "2026-08-05"
+  },
+  {
+   "agent": "Katherine Sanchez Perez",
+   "score": 100,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-06"
+  },
+  {
+   "agent": "Staci Maples (MAPLES01)",
+   "score": 85,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-06"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-05"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 50,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-04"
+  },
+  {
+   "agent": "Alicia Battiata",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-07-28"
+  },
+  {
+   "agent": "Keila Moreno Mercado",
+   "score": 80,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-06"
+  },
+  {
+   "agent": "Maria Ramirez Matos",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-10",
+   "interactionDate": "2026-08-05"
+  },
+  {
+   "agent": "Pedro Jimenez Medina",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-10",
+   "interactionDate": "2026-08-06"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-08-10",
+   "interactionDate": "2026-08-07"
+  },
+  {
+   "agent": "Donny Dishmey Febles",
+   "score": 80,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-11",
+   "interactionDate": "2026-08-07"
+  },
+  {
+   "agent": "Stefanie Smith",
+   "score": 80,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-08-11",
+   "interactionDate": "2026-08-07"
+  },
+  {
+   "agent": "Jaclyn Allen",
+   "score": 100,
+   "coach": "Julia Cowden",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-11",
+   "interactionDate": "2026-08-07"
+  },
+  {
+   "agent": "Casey Nugent",
+   "score": 100,
+   "coach": "Unassigned",
+   "channel": "Kickoff",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-12",
+   "interactionDate": "2026-08-07"
+  },
+  {
+   "agent": "Madison McCaskey",
+   "score": 80,
+   "coach": "Dexter Tardy",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-08-12",
+   "interactionDate": "2026-08-10"
+  },
+  {
+   "agent": "Haley Mitchell",
+   "score": 70,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-12",
+   "interactionDate": "2026-08-11"
+  },
+  {
+   "agent": "Jenny Kimerling",
+   "score": 75,
+   "coach": "Shannon Comas",
+   "channel": "Kickoff",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-08-12",
+   "interactionDate": "2026-08-12"
+  }
+ ]
+}
