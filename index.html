@@ -252,9 +252,10 @@ const supCoach = s => { s=normName(s); return (!s||s.toUpperCase()==='N/A')?'Una
 const COACH_MAP = {"Abel Gonzalez Montero": "Shannon Comas", "Alicia Battiata": "Julia Cowden", "Antonio Perez": "Carla Miner-Luginbyhl", "Aylin Kumcur Reyes": "Julia Cowden", "Casey Nugent": "Carla Miner-Luginbyhl", "Chyna Elias": "Shannon Comas", "David Ostendorf": "Dexter Tardy", "Dominic Ondabu": "Shannon Comas", "Donny Dishmey Febles": "Shannon Comas", "Erika Hubbard": "Dexter Tardy", "Gabriela Sanabia Pappaterra": "Dexter Tardy", "Glenys Rodriguez": "Dexter Tardy", "Haley Mitchell": "Julia Cowden", "Holly Fatla": "Dexter Tardy", "Hunter Leake": "Carla Miner-Luginbyhl", "Jaclyn Allen": "Julia Cowden", "Jake Tayler": "Carla Miner-Luginbyhl", "Jason Hockett": "Julia Cowden", "Jenny Kimerling": "Shannon Comas", "Jonathan Miles": "Shannon Comas", "Katherine Sanchez Perez": "Carla Miner-Luginbyhl", "Keila Moreno Mercado": "Shannon Comas", "Kelly Householder": "Carla Miner-Luginbyhl", "Keyla Ferreras Solano": "Julia Cowden", "Kristen Weaver": "Julia Cowden", "Ladonna Williams": "Julia Cowden", "Lauren Crutchfield": "Shannon Comas", "Lorenz Marsh": "Dexter Tardy", "Madison McCaskey": "Dexter Tardy", "Maria Ramirez Matos": "Dexter Tardy", "Mariel Rosa Hernandez": "Julia Cowden", "Nicole Ozoria Minaya": "Dexter Tardy", "Niurkiss Mallen Burgos": "Luis Kepis Hernandez", "Pedro Jimenez Medina": "Dexter Tardy", "Scott Jennings": "Shannon Comas", "Staci Maples (MAPLES01)": "Carla Miner-Luginbyhl", "Stefanie Smith": "Shannon Comas", "Stephanie Stalone (STALOS01)": "Dexter Tardy", "Summer Rima": "Dexter Tardy", "Sydney Pacheco": "Julia Cowden", "Taylor Sloan": "Shannon Comas", "Tina Stone": "Carla Miner-Luginbyhl", "William King": "Julia Cowden", "Yenifer Medina Perez": "Julia Cowden"};
 
 /* ---- Q4 2026 org alignment (source: Q4 PCSM org roster) ----
-   8x8 carries outdated agent names and supervisors. For evaluations dated
-   2026-10-01 or later, agent names are corrected and coaches are assigned
-   from the Q4 roster. Earlier quarters are left as recorded. */
+   8x8 carries outdated agent names and supervisors. Agent names are
+   corrected across all quarters so each person has one history. Coaches
+   are assigned from the Q4 roster for evaluations dated 2026-10-01 or
+   later; earlier quarters keep the coach as recorded. */
 const Q4_START = '2026-10-01';
 const Q4_NAME_FIX = {
   "Glenys Rodriguez": "Glenys Rodriguez Gomez",
@@ -278,9 +279,9 @@ const Q4_COACH = {};
 Object.entries(Q4_ORG).forEach(([c,list])=>list.forEach(a=>{ Q4_COACH[a]=c; }));
 function applyQ4Org(records){
   records.forEach(r=>{
-    if(!r.evalDate || r.evalDate < Q4_START) return;
     const n = normName(r.agent);
     r.agent = Q4_NAME_FIX[n] || n;
+    if(!r.evalDate || r.evalDate < Q4_START) return;
     if(Q4_COACH[r.agent]) r.coach = Q4_COACH[r.agent];
   });
 }
