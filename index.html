@@ -338,11 +338,30 @@ function fill(sel,items){
     if(typeof it==='object'){o.value=it.v;o.textContent=it.t;}else{o.value=it;o.textContent=it;}
     el.appendChild(o);});
 }
-function refreshAgents(){
-  const c = $('#fCoach').value;
-  let ag = DATA.records.filter(r=>c.startsWith('All')||r.coach===c).map(r=>r.agent);
-  fill('#fAgent', ['All Agents', ...[...new Set(ag)].sort()]);
+/* Coach and agent lists follow the selected quarters, months and dates,
+   so a coach with no evaluations in that period is not listed. */
+function inPeriod(r){
+  return (selQ.size===0||selQ.has(quarterOf(r.evalDate))) &&
+    (selM.size===0||selM.has(monthOf(r.evalDate))) &&
+    (selD.size===0||selD.has(r.evalDate));
 }
+function keepValue(sel, prev){
+  const el=$(sel); if([...el.options].some(o=>o.value===prev)) el.value=prev;
+}
+function refreshCoaches(){
+  const prev = $('#fCoach').value;
+  const coaches = [...new Set(DATA.records.filter(inPeriod).map(r=>r.coach))].sort();
+  fill('#fCoach', ['All Coaches', ...coaches.map(c=>({v:c,t:coachLabel(c)}))]);
+  keepValue('#fCoach', prev);
+  $('#footnote').textContent = 'Source: ' + DATA.meta.source + '. Goal ' + GOAL + '%. Coaches: ' + coaches.map(coachLabel).join(', ') + '.';
+}
+function refreshAgents(){
+  const c = $('#fCoach').value, prev = $('#fAgent').value;
+  let ag = DATA.records.filter(r=>inPeriod(r)&&(c.startsWith('All')||r.coach===c)).map(r=>r.agent);
+  fill('#fAgent', ['All Agents', ...[...new Set(ag)].sort()]);
+  keepValue('#fAgent', prev);
+}
+function syncPeriodFilters(){ refreshCoaches(); refreshAgents(); }
 function buildMS(sel, noun, values, stateSet){
   const box=$(sel);
   const btn=document.createElement('button'); btn.type='button'; btn.className='ms-btn';
@@ -514,6 +533,7 @@ function exportXLSX(){
 }
 
 function render(){
+  syncPeriodFilters();
   const rec = filtered();
   const scores = rec.map(r=>r.score);
   const teamAvg = avg(scores);
